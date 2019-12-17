@@ -1,2 +1,3 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 This is contents added to the second line
+This text is new on line 3 of Alice.txt in the change_alice.txt branch
