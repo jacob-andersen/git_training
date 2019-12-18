@@ -1,3 +1,4 @@
 Hi!! I'm Bobby. I'm new here.
 This second line is new in the Bob.txt file on master
-line 3 in bob.txtmkdir 
+line 3 in bob.txt
+line 4 in bob.txt
