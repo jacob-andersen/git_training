@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 Hi!! I'm Bobby. I've been here for a while now.
-=======
-Hi!!! I'm Bobby. I'm new here.
->>>>>>> bobby_branch
 This second line is new in the Bob.txt file on master
 line 3 in bob.txt
 line 4 in bob.txt
