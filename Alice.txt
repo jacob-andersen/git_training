@@ -8,3 +8,4 @@ this is line 5 of alice
 line 4 of Alice was changed 
 line 5 is also changed here
 line 6 is new in this file
+might this new line be the straw that broke the camels back?
