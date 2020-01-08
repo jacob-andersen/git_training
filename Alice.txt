@@ -1,11 +1,19 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 This is contents added to the second line
 This text is new on line 3 of Alice.txt in the change_alice.txt branch
-<<<<<<< Updated upstream
 line 4 of Alice was changed
 this is line 5 of alice
+<<<<<<< Updated upstream
 
 line 4 of Alice was changed 
 line 5 is also changed here
 line 6 is new in this file
+<<<<<<< HEAD
 might this new line be the straw that broke the camels back?
+=======
+=======
+line 4 of Alice was changed 
+line 5 is also changed here
+by gummy, if i didnt just change Alice once more!
+>>>>>>> Stashed changes
+>>>>>>> brace yourself, another change
