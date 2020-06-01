@@ -1,2 +1,3 @@
 Hi! I'm Bob. I'm new here.
 Here is some new text added to bob
+Here is some more text added to bob to test out the divergent branches merging
