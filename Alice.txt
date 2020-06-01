@@ -1,2 +1,3 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 Adding second line to alice
+added a new line to alice o=under the section about merging diverging branches
